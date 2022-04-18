@@ -1,0 +1,6 @@
+C:\Users\ISAAC\Documents\UCR I CICLO 2022\IF4101-LENGUAJES PARA APLICACIONES COMERCIALES\Practica\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\ISAAC\Documents\UCR I CICLO 2022\IF4101-LENGUAJES PARA APLICACIONES COMERCIALES\Practica\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\ISAAC\Documents\UCR I CICLO 2022\IF4101-LENGUAJES PARA APLICACIONES COMERCIALES\Practica\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\ISAAC\Documents\UCR I CICLO 2022\IF4101-LENGUAJES PARA APLICACIONES COMERCIALES\Practica\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ISAAC\Documents\UCR I CICLO 2022\IF4101-LENGUAJES PARA APLICACIONES COMERCIALES\Practica\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\ISAAC\Documents\UCR I CICLO 2022\IF4101-LENGUAJES PARA APLICACIONES COMERCIALES\Practica\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
